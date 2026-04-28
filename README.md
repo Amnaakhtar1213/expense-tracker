@@ -52,7 +52,9 @@ A Expense tracker program that built with *JAVASCRIPT*.It let you add transactio
 
 ## How to run
 
-[Click here to view the repository](https://github.com/Amnaakhtar1213/expense-tracker.git)
+[Click here to view the live demo]( https://amnaakhtar1213.github.io/expense-tracker/)
+
+##  Clone the repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/expense-tracker.git
 

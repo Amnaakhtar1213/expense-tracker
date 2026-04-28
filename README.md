@@ -9,9 +9,11 @@ A Expense tracker program that built with *JAVASCRIPT*.It let you add transactio
 - Add new transaction with a description and amount.
 - positive amount are treated as a income, and negative amount as expense.
 - Automatically calculate ans display:
+  
       - Balance(total income - expense).
       - Total income.
       - Total expense.
+  
 - Transaction are listed with delete btn to remove them.
 - Data is store in browser local storage.
   
@@ -47,7 +49,7 @@ A Expense tracker program that built with *JAVASCRIPT*.It let you add transactio
 
 ## How to run
 
-[Click here to view the repository]()
+[Click here to view the repository](https://github.com/Amnaakhtar1213/expense-tracker.git)
 ```bash
-git clone 
+git clone https://github.com/Amnaakhtar1213/expense-tracker.git
 

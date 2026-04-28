@@ -7,14 +7,17 @@ A Expense tracker program that built with *JAVASCRIPT*.It let you add transactio
 ## FEATURES
 
 - Add new transaction with a description and amount.
-- positive amount are treated as a income, and negative amount as expense.
-- Automatically calculate ans display:
   
-      - Balance(total income - expense).
-      - Total income.
-      - Total expense.
+- positive amount are treated as a income, and negative amount as expense.
+  
+- Automatically calculate and display:
+  
+    - Balance(total income - expense).
+    - Total income.
+    - Total expense.
   
 - Transaction are listed with delete btn to remove them.
+  
 - Data is store in browser local storage.
   
 ---------

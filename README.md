@@ -1,10 +1,10 @@
-## EXPENSE-TRACKER
+## EXPENSE-TRACKER 📝
 
 A Expense tracker program that built with *JAVASCRIPT*.It let you add transaction, see your balance, and keep track of income and expense.All data is saved in local Storage, so your record stay even after the refresh.
 
 ---------
 
-## FEATURES
+## FEATURES 🚀
 
 - Add new transaction with a description and amount.
   
@@ -23,7 +23,7 @@ A Expense tracker program that built with *JAVASCRIPT*.It let you add transactio
 ---------
 
 
-##   HOW TO USE
+##   HOW TO USE ❓
 
 - Open the app in your browser.
 
@@ -42,7 +42,7 @@ A Expense tracker program that built with *JAVASCRIPT*.It let you add transactio
 ---------
 
 
-## TECHNOLOGY
+## TECHNOLOGY ⚒️
 
 1. **html**
 2. **css**
@@ -50,9 +50,23 @@ A Expense tracker program that built with *JAVASCRIPT*.It let you add transactio
 
 --------
 
-## How to run
+## How to run ✨
 
-[Click here to view the live demo]( https://amnaakhtar1213.github.io/expense-tracker/)
+------------------------------------
+
+## SCREENSHOT 📸
+
+Here's take a quick lookup:
+- [Click here for tracker screenshot](ss.png)
+
+-------------------------------------
+
+## LIVE DEMO 🌐
+
+Here's take a test yourself:
+- [Click here for tracker live-demo]( https://amnaakhtar1213.github.io/expense-tracker/)
+
+---------------------------------------
 
 ##  Clone the repository
 ```bash
